@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_size_100dp">100dp</dimen>
+    <dimen name="image_size_300dp">300dp</dimen>
+    <dimen name="standard_padding">16dp</dimen>
+</resources>

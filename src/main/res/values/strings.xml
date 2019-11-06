@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokeapi</string>
+    <string name="attack">Attack:</string>
+    <string name="defense">Defense:</string>
+    <string name="hp">Hp:</string>
+    <string name="button">Random position</string>
+    <string name="stats">Stats</string>
+    <string name="type">Type:</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="search_for_the_strongest_pokemon_by">Search for the strongest pokemon by:</string>
+    <string name="color_strongest_pokemon">#DCDCDC</string>
+    <string name="white">#FFFFFF</string>
+</resources>
